@@ -1,0 +1,6 @@
+framework module Pods_EjercicioPodFile {
+  umbrella header "Pods-EjercicioPodFile-umbrella.h"
+
+  export *
+  module * { export * }
+}
